@@ -1,0 +1,10 @@
+{ "nombre": "Juan", "apellido": "Perez", "correo": "juan@mail.com", "telefono": "3001111111", "inscripciones": [{ "programa": "ADSO", "ficha": "F001", "estado": "Activa" }] }
+{ "nombre": "Ana", "apellido": "Gomez", "correo": "ana@mail.com", "telefono": "3002222222", "inscripciones": [{ "programa": "ADSO", "ficha": "F002", "estado": "Activa" }] }
+{ "nombre": "Luis", "apellido": "Martinez", "correo": "luis@mail.com", "telefono": "3003333333", "inscripciones": [{ "programa": "Contabilidad", "ficha": "F003", "estado": "Finalizada" }] }
+{ "nombre": "Maria", "apellido": "Rodriguez", "correo": "maria@mail.com", "telefono": "3004444444", "inscripciones": [{ "programa": "ADSO", "ficha": "F001", "estado": "Cancelada" }] }
+{ "nombre": "Carlos", "apellido": "Ramirez", "correo": "carlos@mail.com", "telefono": "3005555555", "inscripciones": [{ "programa": "Diseño Grafico", "ficha": "F004", "estado": "Activa" }] }
+{ "nombre": "Laura", "apellido": "Torres", "correo": "laura@mail.com", "telefono": "3006666666", "inscripciones": [{ "programa": "ADSO", "ficha": "F002", "estado": "Activa" }] }
+{ "nombre": "Pedro", "apellido": "Lopez", "correo": "pedro@mail.com", "telefono": "3007777777", "inscripciones": [{ "programa": "Contabilidad", "ficha": "F003", "estado": "Activa" }] }
+{ "nombre": "Sofia", "apellido": "Hernandez", "correo": "sofia@mail.com", "telefono": "3008888888", "inscripciones": [{ "programa": "Diseño Grafico", "ficha": "F004", "estado": "Finalizada" }] }
+{ "nombre": "Andres", "apellido": "Castro", "correo": "andres@mail.com", "telefono": "3009999999", "inscripciones": [{ "programa": "ADSO", "ficha": "F001", "estado": "Activa" }] }
+{ "nombre": "Valentina", "apellido": "Morales", "correo": "valen@mail.com", "telefono": "3001010101", "inscripciones": [{ "programa": "Contabilidad", "ficha": "F003", "estado": "Cancelada" }] }
