@@ -1,0 +1,141 @@
+[
+  {
+    "nombre": "ADSO",
+    "duracion_meses": 24,
+    "duracion_horas": 2640,
+    "modalidad": "Presencial",
+    "nivel": "Tecnólogo",
+    "version": "ADSO-2024-V2",
+    "fecha_inicio": "2024-02-01",
+    "fecha_fin": "2026-01-31",
+    "cupos": 30,
+    "competencias": [
+      { "nombre": "Programación Web", "horas": 120, "tipo": "Específica" },
+      { "nombre": "Bases de Datos", "horas": 80, "tipo": "Específica" }
+    ],
+    "requisitos": ["Grado 11 aprobado", "Entrevista", "Prueba técnica"]
+  },
+  {
+    "nombre": "Contabilidad",
+    "duracion_meses": 18,
+    "duracion_horas": 1980,
+    "modalidad": "Virtual",
+    "nivel": "Técnico",
+    "version": "CONT-2024-V1",
+    "fecha_inicio": "2024-02-01",
+    "fecha_fin": "2025-07-31",
+    "cupos": 40,
+    "competencias": [
+      { "nombre": "Contabilidad Básica", "horas": 150, "tipo": "Específica" },
+      { "nombre": "Nómina", "horas": 80, "tipo": "Específica" }
+    ],
+    "requisitos": ["Grado 11 aprobado", "Conocimientos básicos de matemáticas"]
+  },
+  {
+    "nombre": "Diseño Gráfico",
+    "duracion_meses": 12,
+    "duracion_horas": 1320,
+    "modalidad": "Presencial",
+    "nivel": "Técnico",
+    "version": "DG-2024-V1",
+    "fecha_inicio": "2024-01-15",
+    "fecha_fin": "2025-01-14",
+    "cupos": 25,
+    "competencias": [
+      { "nombre": "Illustrator", "horas": 100, "tipo": "Específica" },
+      { "nombre": "Photoshop", "horas": 80, "tipo": "Específica" }
+    ],
+    "requisitos": ["Grado 11 aprobado", "Portafolio básico", "Entrevista"]
+  },
+  {
+    "nombre": "Electricidad",
+    "duracion_meses": 18,
+    "duracion_horas": 1980,
+    "modalidad": "Presencial",
+    "nivel": "Técnico",
+    "version": "ELEC-2024-V1",
+    "fecha_inicio": "2024-03-01",
+    "fecha_fin": "2025-08-31",
+    "cupos": 30,
+    "competencias": [],
+    "requisitos": ["Grado 9 aprobado", "Curso de seguridad"]
+  },
+  {
+    "nombre": "Mecánica",
+    "duracion_meses": 24,
+    "duracion_horas": 2640,
+    "modalidad": "Presencial",
+    "nivel": "Tecnólogo",
+    "version": "MEC-2024-V1",
+    "fecha_inicio": "2024-03-01",
+    "fecha_fin": "2026-02-28",
+    "cupos": 25,
+    "competencias": [],
+    "requisitos": ["Grado 11 aprobado", "Prueba física"]
+  },
+  {
+    "nombre": "Enfermería",
+    "duracion_meses": 24,
+    "duracion_horas": 2640,
+    "modalidad": "Virtual",
+    "nivel": "Técnico",
+    "version": "ENF-2024-V1",
+    "fecha_inicio": "2024-02-01",
+    "fecha_fin": "2026-01-31",
+    "cupos": 35,
+    "competencias": [],
+    "requisitos": ["Grado 11 aprobado", "Certificado médico"]
+  },
+  {
+    "nombre": "Marketing Digital",
+    "duracion_meses": 12,
+    "duracion_horas": 1320,
+    "modalidad": "Virtual",
+    "nivel": "Técnico",
+    "version": "MKT-2024-V1",
+    "fecha_inicio": "2024-04-01",
+    "fecha_fin": "2025-03-31",
+    "cupos": 40,
+    "competencias": [],
+    "requisitos": ["Grado 11 aprobado", "Conocimientos básicos de informática"]
+  },
+  {
+    "nombre": "Sistemas Informáticos",
+    "duracion_meses": 18,
+    "duracion_horas": 1980,
+    "modalidad": "Presencial",
+    "nivel": "Técnico",
+    "version": "SIST-2024-V1",
+    "fecha_inicio": "2024-02-01",
+    "fecha_fin": "2025-07-31",
+    "cupos": 30,
+    "competencias": [],
+    "requisitos": ["Grado 9 aprobado", "Prueba de aptitud"]
+  },
+  {
+    "nombre": "Cocina Profesional",
+    "duracion_meses": 12,
+    "duracion_horas": 1320,
+    "modalidad": "Presencial",
+    "nivel": "Técnico",
+    "version": "COC-2024-V1",
+    "fecha_inicio": "2024-05-01",
+    "fecha_fin": "2025-04-30",
+    "cupos": 20,
+    "competencias": [],
+    "requisitos": ["Grado 9 aprobado", "Curso de manipulación de alimentos"]
+  },
+  {
+    "nombre": "Construcción Civil",
+    "duracion_meses": 24,
+    "duracion_horas": 2640,
+    "modalidad": "Presencial",
+    "nivel": "Tecnólogo",
+    "version": "CONS-2024-V1",
+    "fecha_inicio": "2024-03-01",
+    "fecha_fin": "2026-02-28",
+    "cupos": 25,
+    "competencias": [],
+    "requisitos": ["Grado 11 aprobado", "Examen médico ocupacional"]
+  }
+]

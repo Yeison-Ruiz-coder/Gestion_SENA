@@ -1,0 +1,250 @@
+{
+  "nombre": "Juan Carlos",
+  "apellido": "Pérez González",
+  "correo": "juan.perez@email.com",
+  "telefono": "+57 300 111 1111",
+  "fecha_nacimiento": "2002-05-15",
+  "identificacion": {
+    "tipo": "CC",
+    "numero": "1012345678",
+    "expedicion": "Bogotá"
+  },
+  "direccion": "Calle 45 # 23-12, Bogotá",
+  "inscripciones": [
+    {
+      "programa": "ADSO",
+      "ficha": "F001",
+      "fecha_inicio": "2024-02-01",
+      "fecha_fin": "2026-01-31",
+      "estado": "Activa",
+      "promedio": 4.5,
+      "avance": 25,
+      "asistencias": 85
+    }
+  ]
+}
+{
+  "nombre": "Ana María",
+  "apellido": "Gómez Restrepo",
+  "correo": "ana.gomez@email.com",
+  "telefono": "+57 300 222 2222",
+  "fecha_nacimiento": "2003-08-22",
+  "identificacion": {
+    "tipo": "CC",
+    "numero": "1023456789",
+    "expedicion": "Medellín"
+  },
+  "direccion": "Carrera 34 # 12-45, Medellín",
+  "inscripciones": [
+    {
+      "programa": "ADSO",
+      "ficha": "F002",
+      "fecha_inicio": "2024-02-01",
+      "fecha_fin": "2026-01-31",
+      "estado": "Activa",
+      "promedio": 4.8,
+      "avance": 25,
+      "asistencias": 95
+    }
+  ]
+}
+{
+  "nombre": "Luis Fernando",
+  "apellido": "Martínez García",
+  "correo": "luis.martinez@email.com",
+  "telefono": "+57 300 333 3333",
+  "fecha_nacimiento": "2001-11-30",
+  "identificacion": {
+    "tipo": "CC",
+    "numero": "1034567890",
+    "expedicion": "Cali"
+  },
+  "direccion": "Avenida 5N # 23-45, Cali",
+  "inscripciones": [
+    {
+      "programa": "Contabilidad",
+      "ficha": "F003",
+      "fecha_inicio": "2023-02-01",
+      "fecha_fin": "2024-07-31",
+      "estado": "Finalizada",
+      "promedio": 3.9,
+      "avance": 100,
+      "asistencias": 88
+    }
+  ]
+}
+{
+  "nombre": "María José",
+  "apellido": "Rodríguez Silva",
+  "correo": "maria.rodriguez@email.com",
+  "telefono": "+57 300 444 4444",
+  "fecha_nacimiento": "2004-02-18",
+  "identificacion": {
+    "tipo": "CC",
+    "numero": "1045678901",
+    "expedicion": "Barranquilla"
+  },
+  "direccion": "Calle 72 # 34-56, Barranquilla",
+  "inscripciones": [
+    {
+      "programa": "ADSO",
+      "ficha": "F001",
+      "fecha_inicio": "2024-02-01",
+      "fecha_fin": "2026-01-31",
+      "estado": "Cancelada",
+      "promedio": 0,
+      "avance": 15,
+      "asistencias": 20
+    }
+  ]
+}
+{
+  "nombre": "Carlos Eduardo",
+  "apellido": "Ramírez Torres",
+  "correo": "carlos.ramirez@email.com",
+  "telefono": "+57 300 555 5555",
+  "fecha_nacimiento": "2002-07-10",
+  "identificacion": {
+    "tipo": "CC",
+    "numero": "1056789012",
+    "expedicion": "Cartagena"
+  },
+  "direccion": "Carrera 8 # 15-78, Cartagena",
+  "inscripciones": [
+    {
+      "programa": "Diseño Gráfico",
+      "ficha": "F004",
+      "fecha_inicio": "2024-01-15",
+      "fecha_fin": "2025-01-14",
+      "estado": "Activa",
+      "promedio": 4.2,
+      "avance": 40,
+      "asistencias": 92
+    }
+  ]
+}
+{
+  "nombre": "Laura Sofía",
+  "apellido": "Torres Muñoz",
+  "correo": "laura.torres@email.com",
+  "telefono": "+57 300 666 6666",
+  "fecha_nacimiento": "2003-12-05",
+  "identificacion": {
+    "tipo": "CC",
+    "numero": "1067890123",
+    "expedicion": "Bucaramanga"
+  },
+  "direccion": "Calle 34 # 27-89, Bucaramanga",
+  "inscripciones": [
+    {
+      "programa": "ADSO",
+      "ficha": "F002",
+      "fecha_inicio": "2024-02-01",
+      "fecha_fin": "2026-01-31",
+      "estado": "Activa",
+      "promedio": 4.6,
+      "avance": 25,
+      "asistencias": 96
+    }
+  ]
+}
+{
+  "nombre": "Pedro Antonio",
+  "apellido": "López Castro",
+  "correo": "pedro.lopez@email.com",
+  "telefono": "+57 300 777 7777",
+  "fecha_nacimiento": "2001-09-20",
+  "identificacion": {
+    "tipo": "CC",
+    "numero": "1078901234",
+    "expedicion": "Pereira"
+  },
+  "direccion": "Avenida Circunvalar # 45-12, Pereira",
+  "inscripciones": [
+    {
+      "programa": "Contabilidad",
+      "ficha": "F003",
+      "fecha_inicio": "2024-02-01",
+      "fecha_fin": "2025-07-31",
+      "estado": "Activa",
+      "promedio": 3.5,
+      "avance": 30,
+      "asistencias": 70
+    }
+  ]
+}
+{
+  "nombre": "Sofia Valentina",
+  "apellido": "Hernández Díaz",
+  "correo": "sofia.hernandez@email.com",
+  "telefono": "+57 300 888 8888",
+  "fecha_nacimiento": "2004-04-12",
+  "identificacion": {
+    "tipo": "CC",
+    "numero": "1089012345",
+    "expedicion": "Cúcuta"
+  },
+  "direccion": "Calle 10 # 5-67, Cúcuta",
+  "inscripciones": [
+    {
+      "programa": "Diseño Gráfico",
+      "ficha": "F004",
+      "fecha_inicio": "2023-01-15",
+      "fecha_fin": "2024-01-14",
+      "estado": "Finalizada",
+      "promedio": 4.9,
+      "avance": 100,
+      "asistencias": 98
+    }
+  ]
+}
+{
+  "nombre": "Andrés Felipe",
+  "apellido": "Castro Mejía",
+  "correo": "andres.castro@email.com",
+  "telefono": "+57 300 999 9999",
+  "fecha_nacimiento": "2002-06-25",
+  "identificacion": {
+    "tipo": "CC",
+    "numero": "1090123456",
+    "expedicion": "Manizales"
+  },
+  "direccion": "Carrera 23 # 45-67, Manizales",
+  "inscripciones": [
+    {
+      "programa": "ADSO",
+      "ficha": "F001",
+      "fecha_inicio": "2024-02-01",
+      "fecha_fin": "2026-01-31",
+      "estado": "Activa",
+      "promedio": 4.0,
+      "avance": 25,
+      "asistencias": 80
+    }
+  ]
+}
+{
+  "nombre": "Valentina",
+  "apellido": "Morales Ríos",
+  "correo": "valentina.morales@email.com",
+  "telefono": "+57 300 101 0101",
+  "fecha_nacimiento": "2003-03-08",
+  "identificacion": {
+    "tipo": "CC",
+    "numero": "1101234567",
+    "expedicion": "Santa Marta"
+  },
+  "direccion": "Calle 15 # 8-90, Santa Marta",
+  "inscripciones": [
+    {
+      "programa": "Contabilidad",
+      "ficha": "F003",
+      "fecha_inicio": "2024-02-01",
+      "fecha_fin": "2025-07-31",
+      "estado": "Cancelada",
+      "promedio": 0,
+      "avance": 10,
+      "asistencias": 15
+    }
+  ]
+}

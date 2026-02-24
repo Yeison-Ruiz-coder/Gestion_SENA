@@ -1,0 +1,170 @@
+[
+  {
+    "nombre": "Andrés",
+    "apellido": "Vargas Silva",
+    "correo": "andres.vargas@sena.edu.co",
+    "telefono": "+57 311 222 3333",
+    "profesion": "Ingeniero de Sistemas",
+    "fecha_ingreso": "2020-03-15",
+    "competencias": [
+      {
+        "nombre": "Programación Web",
+        "nivel": "Avanzado",
+        "experiencia": 8
+      },
+      {
+        "nombre": "JavaScript",
+        "nivel": "Avanzado",
+        "experiencia": 7
+      }
+    ],
+    "programas_asignados": [
+      {
+        "programa": "ADSO",
+        "fichas": ["F001", "F002"],
+        "horas_asignadas": 120
+      }
+    ]
+  },
+  {
+    "nombre": "Patricia",
+    "apellido": "López Ramírez",
+    "correo": "patricia.lopez@sena.edu.co",
+    "telefono": "+57 312 333 4444",
+    "profesion": "Ingeniera de Sistemas",
+    "fecha_ingreso": "2019-06-10",
+    "competencias": [
+      {
+        "nombre": "Bases de Datos",
+        "nivel": "Avanzado",
+        "experiencia": 10
+      },
+      {
+        "nombre": "SQL",
+        "nivel": "Avanzado",
+        "experiencia": 10
+      }
+    ],
+    "programas_asignados": [
+      {
+        "programa": "ADSO",
+        "fichas": ["F001", "F002"],
+        "horas_asignadas": 80
+      }
+    ]
+  },
+  {
+    "nombre": "Miguel Ángel",
+    "apellido": "Torres Gómez",
+    "correo": "miguel.torres@sena.edu.co",
+    "telefono": "+57 313 444 5555",
+    "profesion": "Contador Público",
+    "fecha_ingreso": "2018-02-20",
+    "competencias": [
+      {
+        "nombre": "Contabilidad Básica",
+        "nivel": "Avanzado",
+        "experiencia": 12
+      },
+      {
+        "nombre": "Nómina",
+        "nivel": "Avanzado",
+        "experiencia": 10
+      }
+    ],
+    "programas_asignados": [
+      {
+        "programa": "Contabilidad",
+        "fichas": ["F003"],
+        "horas_asignadas": 150
+      }
+    ]
+  },
+  {
+    "nombre": "Diana Carolina",
+    "apellido": "Martínez Ruiz",
+    "correo": "diana.martinez@sena.edu.co",
+    "telefono": "+57 314 555 6666",
+    "profesion": "Diseñadora Gráfica",
+    "fecha_ingreso": "2021-01-15",
+    "competencias": [
+      {
+        "nombre": "Illustrator",
+        "nivel": "Avanzado",
+        "experiencia": 6
+      },
+      {
+        "nombre": "Photoshop",
+        "nivel": "Intermedio",
+        "experiencia": 5
+      }
+    ],
+    "programas_asignados": [
+      {
+        "programa": "Diseño Gráfico",
+        "fichas": ["F004"],
+        "horas_asignadas": 100
+      }
+    ]
+  },
+  {
+    "nombre": "Camilo Andrés",
+    "apellido": "Rojas Pineda",
+    "correo": "camilo.rojas@sena.edu.co",
+    "telefono": "+57 315 666 7777",
+    "profesion": "Ingeniero Industrial",
+    "fecha_ingreso": "2022-08-01",
+    "competencias": [],
+    "programas_asignados": []
+  },
+  {
+    "nombre": "Luisa Fernanda",
+    "apellido": "Fernández López",
+    "correo": "luisa.fernandez@sena.edu.co",
+    "telefono": "+57 316 777 8888",
+    "profesion": "Administradora de Empresas",
+    "fecha_ingreso": "2022-08-01",
+    "competencias": [],
+    "programas_asignados": []
+  },
+  {
+    "nombre": "Daniel",
+    "apellido": "Moreno García",
+    "correo": "daniel.moreno@sena.edu.co",
+    "telefono": "+57 317 888 9999",
+    "profesion": "Ingeniero Electrónico",
+    "fecha_ingreso": "2023-01-10",
+    "competencias": [],
+    "programas_asignados": []
+  },
+  {
+    "nombre": "Natalia",
+    "apellido": "Suárez Vargas",
+    "correo": "natalia.suarez@sena.edu.co",
+    "telefono": "+57 318 999 0000",
+    "profesion": "Psicóloga",
+    "fecha_ingreso": "2023-01-10",
+    "competencias": [],
+    "programas_asignados": []
+  },
+  {
+    "nombre": "Jorge Eliécer",
+    "apellido": "Castillo Murcia",
+    "correo": "jorge.castillo@sena.edu.co",
+    "telefono": "+57 319 000 1111",
+    "profesion": "Técnico en Electricidad",
+    "fecha_ingreso": "2023-06-15",
+    "competencias": [],
+    "programas_asignados": []
+  },
+  {
+    "nombre": "Paola Andrea",
+    "apellido": "Díaz Sánchez",
+    "correo": "paola.diaz@sena.edu.co",
+    "telefono": "+57 320 111 2222",
+    "profesion": "Comunicadora Social",
+    "fecha_ingreso": "2023-06-15",
+    "competencias": [],
+    "programas_asignados": []
+  }
+]
